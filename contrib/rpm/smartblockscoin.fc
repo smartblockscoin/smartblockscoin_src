@@ -1,0 +1,8 @@
+/usr/bin/smartblockscoin-cli		--	gen_context(system_u:object_r:smartblockscoin_exec_t,s0)
+/usr/sbin/smartblockscoind		--	gen_context(system_u:object_r:smartblockscoin_exec_t,s0)
+/usr/lib(64)?/smartblockscoin/smartblockscoind		--	gen_context(system_u:object_r:smartblockscoin_exec_t,s0)
+
+/etc/smartblockscoin(/.*)?		gen_context(system_u:object_r:smartblockscoin_conf_t,s0)
+/var/lib/smartblockscoin(/.*)?		gen_context(system_u:object_r:smartblockscoin_var_lib_t,s0)
+
+(/var)?/run/smartblockscoind(/.*)?   gen_context(system_u:object_r:smartblockscoin_var_run_t,s0)

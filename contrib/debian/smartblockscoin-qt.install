@@ -1,0 +1,6 @@
+usr/local/bin/smartblockscoin-qt usr/bin
+share/pixmaps/smartblockscoin32.xpm usr/share/pixmaps
+share/pixmaps/smartblockscoin16.xpm usr/share/pixmaps
+share/pixmaps/smartblockscoin128.png usr/share/pixmaps
+debian/smartblockscoin-qt.desktop usr/share/applications
+debian/smartblockscoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,3 @@
+usr/local/bin/smartblockscoind usr/bin
+usr/local/bin/smartblockscoin-cli usr/bin
+debian/examples/smartblockscoin.conf etc/smartblockscoin

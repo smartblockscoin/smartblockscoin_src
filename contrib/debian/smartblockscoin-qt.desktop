@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Smartblockscoin Core
+Comment=Smartblockscoin P2P Cryptocurrency
+Comment[fr]=Smartblockscoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Smartblockscoin, eşten eşe kriptografik sanal para birimi
+Exec=smartblockscoin-qt %u
+Terminal=false
+Type=Application
+Icon=smartblockscoin128
+MimeType=x-scheme-handler/smartblockscoin;
+Categories=Office;Finance;
+StartupWMClass=Smartblockscoin-qt

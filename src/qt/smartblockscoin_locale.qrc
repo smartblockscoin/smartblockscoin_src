@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/smartblockscoin_bg.qm</file>
+        <file alias="ca">locale/smartblockscoin_ca.qm</file>
+        <file alias="cs">locale/smartblockscoin_cs.qm</file>
+        <file alias="da">locale/smartblockscoin_da.qm</file>
+        <file alias="de">locale/smartblockscoin_de.qm</file>
+        <file alias="en">locale/smartblockscoin_en.qm</file>
+        <file alias="en_GB">locale/smartblockscoin_en_GB.qm</file>
+        <file alias="en_US">locale/smartblockscoin_en_US.qm</file>
+        <file alias="eo">locale/smartblockscoin_eo.qm</file>
+        <file alias="es">locale/smartblockscoin_es.qm</file>
+        <file alias="es_ES">locale/smartblockscoin_es_ES.qm</file>
+        <file alias="fi">locale/smartblockscoin_fi.qm</file>
+        <file alias="fr_FR">locale/smartblockscoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/smartblockscoin_hi_IN.qm</file>
+        <file alias="hr">locale/smartblockscoin_hr.qm</file>
+        <file alias="hr_HR">locale/smartblockscoin_hr_HR.qm</file>
+        <file alias="it">locale/smartblockscoin_it.qm</file>
+        <file alias="ja">locale/smartblockscoin_ja.qm</file>
+        <file alias="ko_KR">locale/smartblockscoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/smartblockscoin_lt_LT.qm</file>
+        <file alias="nl">locale/smartblockscoin_nl.qm</file>
+        <file alias="pl">locale/smartblockscoin_pl.qm</file>
+        <file alias="pt">locale/smartblockscoin_pt.qm</file>
+        <file alias="pt_BR">locale/smartblockscoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/smartblockscoin_ro_RO.qm</file>
+        <file alias="ru">locale/smartblockscoin_ru.qm</file>
+        <file alias="sk">locale/smartblockscoin_sk.qm</file>
+        <file alias="sv">locale/smartblockscoin_sv.qm</file>
+        <file alias="tr">locale/smartblockscoin_tr.qm</file>
+        <file alias="uk">locale/smartblockscoin_uk.qm</file>
+        <file alias="vi">locale/smartblockscoin_vi.qm</file>
+        <file alias="zh_CN">locale/smartblockscoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/smartblockscoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
