@@ -2,19 +2,19 @@
 
 ### Links
 - [Official Website] (http://www.smartblockscoin.com/)
-- [Official Explorer](http://explorer.smartblockscoin.com)
-- [Official Discord] (https://discord.gg/UsRky5q)
-- [Official Twitter] (https://twitter.com/smartblockscoin)
-- [Official Telegram](https://t.me/smartblockscoin)
+- [Official Explorer](http://explorer.smartblockscoin.com/)
+- [Official Discord] (https://discord.gg/UsRky5q/)
+- [Official Twitter] (https://twitter.com/smartblockscoin/)
+- [Official Telegram](https://t.me/smartblockscoin/)
 
 Listing sites
-- [masternodes.online](soon)
-- [coingecko.com](soon)
+- [masternodes.online] (soon)
+- [coingecko.com] (soon)
 
 Exchange
 - Coinbase Commerce Live on Website
-- [Crex24 SBC/BTC] (soon)
-- [Graviex SBC/BTC](soon)
+- [Crex24 SBC/BTC]  (soon)
+- [Graviex SBC/BTC]  (soon)
 
 ### Coin Info
 COIN INFO
