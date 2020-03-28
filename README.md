@@ -2,10 +2,10 @@
 
 ### Links
 - [Official Website] (http://www.smartblockscoin.com/)
-- [Official Explorer](http://explorer.smartblockscoin.com/)
+- [Official Explorer] (http://explorer.smartblockscoin.com/)
 - [Official Discord] (https://discord.gg/UsRky5q/)
 - [Official Twitter] (https://twitter.com/smartblockscoin/)
-- [Official Telegram](https://t.me/smartblockscoin/)
+- [Official Telegram] (https://t.me/smartblockscoin/)
 
 Listing sites
 - [masternodes.online] (soon)
