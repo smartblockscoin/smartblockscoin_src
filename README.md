@@ -1,7 +1,7 @@
 ### Smartblockscoin - Crypto Technology Project
 
 ### Links
-- [Official Website] (http://www.smartblockscoin.com/)
+- [Official Website] (https://www.smartblockscoin.com/)
 - [Official Explorer] (http://explorer.smartblockscoin.com/)
 - [Official Discord] (https://discord.gg/UsRky5q/)
 - [Official Twitter] (https://twitter.com/smartblockscoin/)
