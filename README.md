@@ -2,7 +2,7 @@
 
 ### Links
 - [Official Website] (https://www.smartblockscoin.com/)
-- [Official Explorer] (http://explorer.smartblockscoin.com/)
+- [Official Explorer] (https://explorer.smartblockscoin.com/)
 - [Official Web Wallet] (https://wallet.smartblockscoin.com/)
 - [Official Discord] (https://discord.gg/UsRky5q/)
 - [Official Twitter] (https://twitter.com/smartblockscoin/)
