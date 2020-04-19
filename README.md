@@ -24,8 +24,7 @@ COIN INFO
 <tr><td>Ticker:        </td><td>SBC</td></tr>
 <tr><td>Coin Type:		</td><td>PoS + Masternode</td></tr>
 <tr><td>Algorithm:		</td><td>Quark</td></tr>
-<tr><td>Coin Supply:	</td><td>32.000.000 SBC</td></tr>
-<tr><td>Max Supply:    </td><td>no max</td></tr>
+<tr><td>Total Supply:	</td><td>32.000.000 SBC</td></tr>
 <tr><td>MN Collateral:	</td><td>5.000 SBC</td></tr>
 <tr><td>MN Confirm:    </td><td>10 blocks</td></tr>
 <tr><td>TX Confirm:    </td><td>5 blocks</td></tr>	
