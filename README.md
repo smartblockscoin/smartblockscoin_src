@@ -4,7 +4,7 @@
 - [Official Website] (https://www.smartblockscoin.com/)
 - [Official Explorer] (https://explorer.smartblockscoin.com/)
 - [Official Web Wallet] (https://wallet.smartblockscoin.com/)
-- [Official Discord] (https://discord.gg/UsRky5q/)
+- [Official Discord] (https://discord.gg/GdJnxBE)
 - [Official Twitter] (https://twitter.com/smartblockscoin/)
 - [Official Telegram] (https://t.me/smartblockscoin/)
 
@@ -14,8 +14,6 @@ Listing sites
 
 Exchange
 - Coinbase Commerce Live on Website
-- [Crex24 SBC/BTC]  (soon)
-- [Graviex SBC/BTC]  (soon)
 
 ### Coin Info
 COIN INFO
